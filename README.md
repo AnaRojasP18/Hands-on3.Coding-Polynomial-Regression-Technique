@@ -3,6 +3,7 @@ Dado el DataSet proporcionado en, https://www.six-sigma-material.com/Regression.
 1. Lineal
 2. Cuadrático
 3. Cúbico
+
 Comprobar que los valores calculados coinciden con los mostrados en la página web.
 
 Inputs:
